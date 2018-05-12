@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '33761'
     url: http://www.gutenberg.org/2009/agents/33761
 description: Cover; Title Page; Copyright Page; Homesick.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29599#Homesick
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
